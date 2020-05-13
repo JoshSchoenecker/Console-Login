@@ -1,0 +1,13 @@
+C:\source\codeWorks\C#\userConsole\bin\Debug\netcoreapp3.1\userConsole.exe
+C:\source\codeWorks\C#\userConsole\bin\Debug\netcoreapp3.1\userConsole.deps.json
+C:\source\codeWorks\C#\userConsole\bin\Debug\netcoreapp3.1\userConsole.runtimeconfig.json
+C:\source\codeWorks\C#\userConsole\bin\Debug\netcoreapp3.1\userConsole.runtimeconfig.dev.json
+C:\source\codeWorks\C#\userConsole\bin\Debug\netcoreapp3.1\userConsole.dll
+C:\source\codeWorks\C#\userConsole\bin\Debug\netcoreapp3.1\userConsole.pdb
+C:\source\codeWorks\C#\userConsole\obj\Debug\netcoreapp3.1\userConsole.csprojAssemblyReference.cache
+C:\source\codeWorks\C#\userConsole\obj\Debug\netcoreapp3.1\userConsole.csproj.CoreCompileInputs.cache
+C:\source\codeWorks\C#\userConsole\obj\Debug\netcoreapp3.1\userConsole.AssemblyInfoInputs.cache
+C:\source\codeWorks\C#\userConsole\obj\Debug\netcoreapp3.1\userConsole.AssemblyInfo.cs
+C:\source\codeWorks\C#\userConsole\obj\Debug\netcoreapp3.1\userConsole.dll
+C:\source\codeWorks\C#\userConsole\obj\Debug\netcoreapp3.1\userConsole.pdb
+C:\source\codeWorks\C#\userConsole\obj\Debug\netcoreapp3.1\userConsole.genruntimeconfig.cache
